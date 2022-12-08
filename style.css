@@ -1,0 +1,61 @@
+.sm_float{
+    position: fixed;
+    top: 40%;
+    z-index: 1;
+}
+
+.sm_item{
+    height: 35.1px;
+}
+
+.sm_item .bi{
+    cursor: pointer;
+    position: absolute;
+    font-size: 22px;
+    padding: 1px 4px;
+}
+
+.sm_item .bi-whatsapp{
+    background-color: #25D366;
+    color: white;
+}
+
+.sm_item .bi-whatsapp:hover{
+    width: 38px;
+}
+
+.sm_item .bi-messenger{
+    background-color: #006AFF;
+    color: white;
+}
+
+.sm_item .bi-messenger:hover {
+    width: 38px;
+}
+
+.sm_item .bi-youtube{
+    background-color: #FF0000;
+    color: white;
+}
+
+.sm_item .bi-youtube:hover {
+    width: 38px;
+}
+
+.sm_item .bi-instagram{
+    background-color: #C13584;
+    color: white;
+}
+
+.sm_item .bi-instagram:hover {
+    width: 38px;
+}
+
+.sm_item .bi-geo-alt-fill{
+    background-color: white;
+    color: blue;
+}
+
+.sm_item .bi-geo-alt-fill:hover {
+    width: 38px;
+}
